@@ -5,9 +5,6 @@ var proxy = "PROXY 119.29.39.96:8580;";
 var domains = {
   "pinterest.com": 1,
   "medium.com": 1,
-  "npmjs.org": 1,
-  "npmjs.com": 1,
-  "github.com": 1,
   "download.kolor.com": 1,
   "messenger.com": 1,
   "tumblr.com": 1,
@@ -49,7 +46,6 @@ var domains = {
   "jwplayer.com": 1, 
   "0to255.com": 1, 
   "10musume.com": 1, 
-  "dribbble.com": 1,
   "123rf.com": 1, 
   "12bet.com": 1, 
   "12vpn.com": 1, 
